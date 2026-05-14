@@ -1,6 +1,6 @@
 # 🧩 Site Maker 5700 | Beta v1
 
-[![License: GPL v3](File LICENSE)
+License: GPL v3 (File LICENSE)
 ---
 
 ## English Language
